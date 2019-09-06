@@ -1,0 +1,26 @@
+c:\users\fpearson\documents\visual studio 2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\ReconcileEmail.dll
+c:\users\fpearson\documents\visual studio 2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\ReconcileEmail.pdb
+c:\users\fpearson\documents\visual studio 2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\fpearson\documents\visual studio 2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.IdentityModel.dll
+c:\users\fpearson\documents\visual studio 2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\fpearson\documents\visual studio 2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+c:\users\fpearson\documents\visual studio 2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\fpearson\documents\visual studio 2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\fpearson\documents\visual studio 2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+c:\users\fpearson\documents\visual studio 2015\Projects\ReconcileEmail\ReconcileEmail\obj\Debug\ReconcileEmail.csprojResolveAssemblyReference.cache
+c:\users\fpearson\documents\visual studio 2015\Projects\ReconcileEmail\ReconcileEmail\obj\Debug\ReconcileEmail.dll
+c:\users\fpearson\documents\visual studio 2015\Projects\ReconcileEmail\ReconcileEmail\obj\Debug\ReconcileEmail.pdb
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\ReconcileEmail.dll
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\ReconcileEmail.pdb
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\obj\Debug\ReconcileEmail.csprojAssemblyReference.cache
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\obj\Debug\ReconcileEmail.csproj.CoreCompileInputs.cache
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\obj\Debug\ReconcileEmail.csproj.CopyComplete
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\obj\Debug\ReconcileEmail.dll
+C:\Users\fpearson\files\clientdocs\projects2015\Projects\ReconcileEmail\ReconcileEmail\obj\Debug\ReconcileEmail.pdb
